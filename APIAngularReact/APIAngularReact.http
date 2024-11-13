@@ -1,0 +1,6 @@
+@APIAngularReact_HostAddress = http://localhost:5269
+
+GET {{APIAngularReact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
