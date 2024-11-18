@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIAngularReact")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc468fcac7848ba72f60da823bea258770ac7551")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIAngularReact")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIAngularReact")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

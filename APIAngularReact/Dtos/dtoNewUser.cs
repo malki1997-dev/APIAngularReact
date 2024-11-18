@@ -15,7 +15,7 @@ namespace APIAngularReact.Dtos
         public string Email { get; set; }
 
         [Required]
-        public string? tele {  get; set; }
+        public string? PhoneNumber {  get; set; }
 
     }
 }

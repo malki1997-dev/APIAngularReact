@@ -146,3 +146,4 @@ C:\Users\DELL\Desktop\PROJETS\APIAngularReact\APIAngularReact\obj\Debug\net8.0\r
 C:\Users\DELL\Desktop\PROJETS\APIAngularReact\APIAngularReact\obj\Debug\net8.0\APIAngularReact.pdb
 C:\Users\DELL\Desktop\PROJETS\APIAngularReact\APIAngularReact\obj\Debug\net8.0\APIAngularReact.genruntimeconfig.cache
 C:\Users\DELL\Desktop\PROJETS\APIAngularReact\APIAngularReact\obj\Debug\net8.0\ref\APIAngularReact.dll
+C:\Users\DELL\Desktop\PROJETS\APIAngularReact\APIAngularReact\obj\Debug\net8.0\APIAngularReact.sourcelink.json
